@@ -6,8 +6,7 @@ Nous sommes ravis de vous accueillir sur notre plateforme en ligne.
  
 <div align="center" >
 
-<img  src="https://github.com/FatimaEzzahraElAyadi/Site_Web_E-Commerce/blob/main/imgs/HomePage.png" >
-<p>Click here to see the demo</p>
+<img  src="https://github.com/FatimaEzzahraElAyadi/Site_Web_E-Commerce/blob/master/images/homepage.PNG" >
  
 </a>
 
@@ -23,11 +22,15 @@ Utilisez la barre de recherche pour trouver rapidement un produit spécifique.
 Vous pouvez filtrer les résultats par prix, marque, taille, couleur, etc., pour affiner votre recherche.
 </p>
 
+<img  src="https://github.com/FatimaEzzahraElAyadi/Site_Web_E-Commerce/blob/master/images/product.PNG" >
+
 ### Ajout de produits au panier :
 <p>
 Lorsque vous trouvez un produit qui vous intéresse, cliquez sur le bouton "Ajouter au panier" pour le placer dans votre panier d'achat.
 Vous pouvez modifier la quantité ou supprimer un article du panier à tout moment.
 </p>
+
+<img  src="https://github.com/FatimaEzzahraElAyadi/Site_Web_E-Commerce/blob/master/images/panier.PNG" >
 
 ### Processus de commande:
 <p>
