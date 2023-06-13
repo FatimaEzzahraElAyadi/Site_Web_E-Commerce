@@ -11,7 +11,9 @@ Nous sommes ravis de vous accueillir sur notre plateforme en ligne.
 </a>
 
 </div>
+
 <p>
+ 
  Voici quelques informations importantes pour vous aider à naviguer et profiter pleinement de votre expérience de shopping.
 </p>
 
