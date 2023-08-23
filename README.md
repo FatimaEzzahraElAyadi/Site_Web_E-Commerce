@@ -41,7 +41,7 @@ Suivez les étapes pour fournir les informations de livraison et de paiement né
 Vérifiez attentivement votre commande avant de la confirmer.
 </p>
 
-##Nous espérons que vous apprécierez votre expérience d'achat sur notre site web.##
+## Nous espérons que vous apprécierez votre expérience d'achat sur notre site web. ##
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
