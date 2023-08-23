@@ -1,7 +1,7 @@
 # Site Web E-Commerce :
 
 <p>
-Ce site web e-commerce destiné à fournir une plateforme en ligne pour la vente de produits et services. Il vise à offrir aux clients une expérience de magasinage fluide et pratique tout en permettant aux propriétaires de gérer efficacement leur catalogue de produits et leurs transactions.
+Ce site web e-commerce destiné à fournir une plateforme en ligne pour la vente de produits. Il vise à offrir aux clients une expérience de magasinage fluide et pratique tout en permettant aux propriétaires de gérer efficacement leur catalogue de produits et leurs transactions.
 </p>
  
 <div align="center" >
